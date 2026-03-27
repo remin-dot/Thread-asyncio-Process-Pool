@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "asyncio_example",
+			"path": "../asyncio_example"
+		},
+		{
+			"name": "process_pool_example",
+			"path": "../process_pool_example"
+		},
+		{
+			"name": "thread_example",
+			"path": "../thread_example"
+		},
+		{
+			"name": "Thread-asyncio-Process-Pool",
+			"path": "."
+		},
+		{
+			"name": ".git",
+			"path": "../.git"
+		}
+	],
+	"settings": {}
+}
